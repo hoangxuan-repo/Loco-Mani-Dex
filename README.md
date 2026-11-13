@@ -5,3 +5,4 @@ This Project's purpose: Small Scale (Cause GPU resource problem) Locomotion - De
 - Dex Hand (HaCo)
 - Force - Aware (Crtl-F + FLoRe inspire)
 - Skill Transition
+- ALOHA human-speed
