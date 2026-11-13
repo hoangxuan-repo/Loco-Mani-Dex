@@ -6,3 +6,4 @@ This Project's purpose: Small Scale (Cause GPU resource problem) Locomotion - De
 - Force - Aware (Crtl-F + FLoRe inspire)
 - Skill Transition
 - ALOHA human-speed
+- LingBot tactile opensource
