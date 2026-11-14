@@ -8,3 +8,5 @@ This Project's purpose: Small Scale (Cause GPU resource problem) Locomotion - De
 - ALOHA human-speed
 - LingBot tactile opensource
 - SuperMimic Style Dex | WBC
+- Cotraining
+- Agent ?!
