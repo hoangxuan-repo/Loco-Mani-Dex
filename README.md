@@ -10,3 +10,5 @@ This Project's purpose: Small Scale (Cause GPU resource problem) Locomotion - De
 - SuperMimic Style Dex | WBC
 - Cotraining
 - Agent ?!
+- S1 Loco-Mani-Dex WB-WAM
+- Co-Training S1-S0
